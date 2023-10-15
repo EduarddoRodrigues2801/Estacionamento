@@ -1,6 +1,6 @@
 # Sobre Projeto:
 
-Sistema de gerencionamento estacionamento veículos:
+Sistema de gerenciamento estacionamento veículos:
 Este sistema fornece operações essenciais para o gerenciamento
 eficaz de veículos em um estacionamento.
 Operações disponiveis:
